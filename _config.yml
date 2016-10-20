@@ -1,0 +1,27 @@
+title: Carlos Arango
+description: Software development and other random stuff
+
+url: http://carlosarango.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 10
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About Me
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   #github: licheca
+   twitter: licheca
+   email: licheca@gmail.com
+
+#google_analytics: "UA-58263416-1"
