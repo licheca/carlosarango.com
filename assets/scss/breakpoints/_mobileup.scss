@@ -210,16 +210,30 @@ HEADER STYLING
 POST STYLING
 ***************/
 
+.tags-expo{
+
+	.tags-expo-list{
+		text-align: center;
+	}
+}
+
 .post {
 
 	.postTitle {
 		text-align: center;
-		margin-top: 2rem;
-		margin-bottom: 1rem;
+		margin-top: 1rem;
+		margin-bottom: 2rem;
 	}
 
 	.bioTitle{
 	    color: $title-color;
+	}
+
+	.post-tags{
+		text-align: center;
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+		font-size: .8em;
 	}
 
 	blockquote {

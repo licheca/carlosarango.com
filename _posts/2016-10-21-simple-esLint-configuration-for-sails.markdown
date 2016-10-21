@@ -2,6 +2,7 @@
 layout: post
 title:  "Simple ESLint configuration for Sails JS"
 date:   2016-10-21
+tags: [node, eslint, sails, editor ]
 ---
 
 <p class="intro"><span class="dropcap">I</span>n this post we'll look into configuring ESLint for a Sails JS application.</p>
