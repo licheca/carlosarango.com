@@ -254,6 +254,14 @@ POST STYLING
 		font-family: $sans-serif;
 		font-weight: 300;
 	}
+	
+	.metaleft {
+		text-align: left;
+		color: lighten(black, 50%);
+		font-family: $sans-serif;
+		font-weight: 300;
+		font-size: .7em;
+	}
 
 	figure {
 		margin: 3rem 0;
